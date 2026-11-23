@@ -4,6 +4,7 @@ import de.ur.mi.oop.launcher.GraphicsAppLauncher;
 import fireworks.FireworkFactory;
 import fireworks.SkyRocket;
 
+@SuppressWarnings("ExplicitArrayFilling")
 public class FireworkWithClasses extends GraphicsApp {
 
 
